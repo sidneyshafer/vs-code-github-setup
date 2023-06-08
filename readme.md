@@ -4,6 +4,7 @@ This repo contains instructions for setting up a repository in Visual Studio Cod
 ## Instructions
 1. Create a new repository on Github.
 2. Copy the link of your Github repository.
+
    ![image](https://github.com/sidneyshafer/vs-code-github-setup/assets/66838571/e3b593a7-9fba-4a65-a86b-4d318693bbb6)
 
 4. Open terminal in Visual Studio Code and write the following commands:
