@@ -1,5 +1,5 @@
 # Visual Studio Code Github Repository Setup
-This repo contains instructions for setting up a repository in Visual Studio Code environment.
+Step-by-step instructions for setting up a repository in Visual Studio Code environment.
 
 ## Instructions
 1. Create a new repository on Github.
